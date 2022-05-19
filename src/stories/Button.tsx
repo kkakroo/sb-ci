@@ -29,7 +29,7 @@ interface ButtonProps {
  */
 export const Button = ({
   primary = false,
-  size = 'large',
+  size = 'medium',
   backgroundColor,
   label,
   ...props
